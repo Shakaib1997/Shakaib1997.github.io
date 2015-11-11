@@ -118,14 +118,14 @@ fieldset[disabled] .btn-primary.active {
 
 /**** Start Logo Section ****/
 
-#logo-section {
-    
-}
 
-.logo h1 {
-    font-family: 'Lobster', cursive;
-    color: #fff;
-    font-size: 60px;
+
+h1 {
+    font-family: 'Lobster', serif;
+    font-size: 70px;
+    font-weight: 800;
+    text-align: center;
+    color: white;
 }
 
 .logo span {
